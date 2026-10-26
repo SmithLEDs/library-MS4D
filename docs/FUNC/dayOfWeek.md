@@ -1,6 +1,8 @@
 # 🔹 Функция `dayOfWeek`
 
 > Возвращает номер дня недели для заданной даты.
+> В отличие от системной функции OSCAT [`DAY_OF_WEEK`](https://support.mps-soft.ru/Help-web/index.html?day_of_week_oscat.html), данная функция корректно возвращает день недели для любой даты. Системная функция корректно выдает день недели только на текущую дату.
+> Огромное спасибо пользователю [**PeterA**](https://www.owen.ru/forum/member.php?u=11873) с форума [OWEN](https://owen.ru/forum/showthread.php?t=40116&p=444277&viewfull=1#post444277)
 
 ---
 
