@@ -3,6 +3,8 @@
 > Визуальное отображение текущих даты, времени и дня недели.
 
 ![wgtCurrentDateTime](../../assets/VIEW/wgtCurrentDateTime/plashka_240x40.png)
+![wgtCurrentDateTime](../../assets/VIEW/wgtCurrentDateTime/plashka_320x60.png)
+
 
 ---
 
