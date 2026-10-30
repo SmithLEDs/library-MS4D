@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PersistProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectId>0</ProjectId>
+  <ProjectGuid>c115296a-c778-4198-9fab-f4efd575362c</ProjectGuid>
+  <ProjectName>COMM</ProjectName>
+  <TypeName>MasterSCADA.Library.HMI</TypeName>
+  <ProjectConfiguration>MasterPLC</ProjectConfiguration>
+  <StoreTypeName>FirebirdStore</StoreTypeName>
+  <ProjectChange>2026-10-30T16:05:36.8568891+04:00</ProjectChange>
+  <ProjectVersion>4</ProjectVersion>
+  <ProjectCategory>TOK</ProjectCategory>
+  <ProjectCategoriesLocalized>{}</ProjectCategoriesLocalized>
+  <DatabaseVersion>WI-V2.5.8.27089 Firebird 2.5</DatabaseVersion>
+</PersistProjectInfo>

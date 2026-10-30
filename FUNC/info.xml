@@ -6,8 +6,8 @@
   <TypeName>MasterSCADA.Library.HMI</TypeName>
   <ProjectConfiguration>MasterPLC</ProjectConfiguration>
   <StoreTypeName>FirebirdStore</StoreTypeName>
-  <ProjectChange>2026-10-28T18:02:52.4396592+04:00</ProjectChange>
-  <ProjectVersion>9</ProjectVersion>
+  <ProjectChange>2026-10-30T15:45:25.5133767+04:00</ProjectChange>
+  <ProjectVersion>13</ProjectVersion>
   <ProjectCategory>TOK</ProjectCategory>
   <ProjectCategoriesLocalized>{}</ProjectCategoriesLocalized>
   <DatabaseVersion>WI-V2.5.8.27089 Firebird 2.5</DatabaseVersion>
